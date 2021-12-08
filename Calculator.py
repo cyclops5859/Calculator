@@ -1,4 +1,3 @@
-# Created by Cyclops!
 from tkinter import*
 import math
 import parser
